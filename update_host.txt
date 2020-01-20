@@ -9,3 +9,4 @@
 ||c-msedge.net^
 ||cloudapp.azure.com^
 ||microsoft.com.akadns.net^
+||dspw65.akamai.net^
