@@ -7,6 +7,7 @@
 ||v0cdn.net^
 ||gvt1.com^
 ||c-msedge.net^
+||a-msedge.net^
 ||cloudapp.azure.com^
 ||microsoft.com.akadns.net^
 ||dspw65.akamai.net^
