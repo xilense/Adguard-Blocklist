@@ -8,3 +8,4 @@
 ||gvt1.com^
 ||c-msedge.net^
 ||cloudapp.azure.com^
+||microsoft.com.akadns.net^
