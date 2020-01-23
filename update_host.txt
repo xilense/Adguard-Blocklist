@@ -12,3 +12,4 @@
 ||microsoft.com.akadns.net^
 ||dspw65.akamai.net^
 ||msa.akadns6.net^
+||data.microsoft.com^
