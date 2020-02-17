@@ -5,7 +5,6 @@
 ||microsoft.com.nsatc.net^
 ||akamaiedge.net^
 ||v0cdn.net^
-||gvt1.com^
 ||c-msedge.net^
 ||a-msedge.net^
 ||cloudapp.azure.com^
