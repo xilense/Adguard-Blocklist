@@ -3,7 +3,7 @@
 #||akamai.net^
 ||windowsupdate.com.c.footprint.net^
 ||microsoft.com.nsatc.net^
-||akamaiedge.net^
+#||akamaiedge.net^
 ||v0cdn.net^
 ||c-msedge.net^
 ||a-msedge.net^
